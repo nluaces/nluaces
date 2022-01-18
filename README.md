@@ -1,7 +1,7 @@
-![logo2](https://user-images.githubusercontent.com/5570874/117500135-7f364280-af7c-11eb-8927-9f524963aed5.png)
 
+![signature-yellow](https://user-images.githubusercontent.com/5570874/150020250-fe3ddfc4-32ad-465b-b62a-b36204d7dcb6.png)
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kotlin μ-services.
-- 🌱 I’m currently learning Functional Programming with Scala.
+- 🔭 I’m currently working on Skupper project.
+- 🌱 I’m currently learning Go and Kubernetes.
